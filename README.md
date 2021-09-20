@@ -1,10 +1,43 @@
 # Hi there 👋
 
 <!--**raiden-e/raiden-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-My name is Raiden and I am an infomation systems student at the [FH Dortmund](https://www.fh-dortmund.de).
 
-- 🔭 I’m currently working on a personal Jekyll website and a Discord bot
-- 🌱 I’m currently learning Economics and programming in Python and Java
-- 👯 I’m looking to collaborate on a Website
-- 🤔 I’m looking for help with HTML, CSS
-- 📫 You can Email me any time.
+My name is Raiden. I am an information systems student at the [FH Dortmund](https://www.fh-dortmund.de). Parallelly, I work as a working student at [Materna IPS](https://www.materna-ips.com).
+
+## Main languages:
+
+- Python
+- PowerShell
+- Java
+- JS / HTML / CSS / Jekyll / liquid
+
+## Familiar systems and frameworks
+
+### Repository hosting systems
+
+- GitHub
+- GitLab
+
+### Operating systems
+
+- Windows 10
+- Ubuntu
+
+### Hypervisor systems
+
+- Proxmox
+- VMWare ESXi
+
+## Misc
+
+- DX-Union
+- Office
+- VS Code
+- SharePoint
+
+# A bit more about me
+
+During my studies in Mechanical engineering, I learned C-Sharp, while I also learned PowerShell at Vulkan's. It was this time that I realized I liked programming way more than engineering, so I switched. My experiences as a working student were so positive that I chose to take up a study-accompanying job.
+I got the opportunity to work at Materna IPS, an aviation solutions company. Quite thrilling, as I like traveling and getting to know the background scenes and systems. I had to accept. As of today, I am glad that I did. I have already learned very much and am excited to continue. 
+
+This is everything I can come up with, at the moment. Cheers!
