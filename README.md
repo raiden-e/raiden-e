@@ -2,7 +2,10 @@
 
 <!--**raiden-e/raiden-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-My name is Raiden. I am an information systems student at the [FH Dortmund](https://www.fh-dortmund.de). Parallelly, I work as a working student at [Materna IPS](https://www.materna-ips.com).
+My name is Raiden. I am an information systems student at the [FH Dortmund][1] and work paralelly as a working student at [Materna IPS][2].
+
+[1]: https://www.fh-dortmund.de
+[2]: https://www.materna-ips.com
 
 ## Main languages:
 
@@ -13,27 +16,13 @@ My name is Raiden. I am an information systems student at the [FH Dortmund](http
 
 ## Familiar systems and frameworks
 
-### Repository hosting systems
-
-- GitHub
-- GitLab
-
-### Operating systems
-
-- Windows 10
-- Ubuntu
-
-### Hypervisor systems
-
-- Proxmox
-- VMWare ESXi
-
-## Misc
-
-- DX-Union
-- Office
-- VS Code
-- SharePoint
+| Repository hosting systems | Operating systems | Hypervisor systems | Misc       |
+| -------------------------- | ----------------- | ------------------ | ---------- |
+| GitHub                     | Windows 10        | Proxmox            | DX-Union   |
+| GitLab                     | Ubuntu            | VMWare ESXi        | Office     |
+|                            |                   | Hyper-V Desktop    | VS Code    |
+|                            |                   | Docker             | SharePoint |
+|                            |                   |                    |            |
 
 # A bit more about me
 
