@@ -9,9 +9,8 @@ My name is Raiden. I am an information systems student at the [FH Dortmund][1] a
 
 ## Main languages:
 
-
-| Python    | PowerShell | Java      | JS        | HTML      | CSS       | Jekyll    |
-| --------- | ---------- | --------- | --------- | --------- | --------- | --------- |
+|  Python   | PowerShell |   Java    |    JS     |   HTML    |    CSS    |  Jekyll   |
+| :-------: | :--------: | :-------: | :-------: | :-------: | :-------: | :-------: |
 | ![img][3] | ![img][4]  | ![img][5] | ![img][6] | ![img][7] | ![img][8] | ![img][9] |
 
 [3]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/python.svg
@@ -21,6 +20,7 @@ My name is Raiden. I am an information systems student at the [FH Dortmund][1] a
 [7]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/html.svg
 [8]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/css.svg
 [9]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/jekyll.svg
+
 
 ## Familiar systems and frameworks
 
