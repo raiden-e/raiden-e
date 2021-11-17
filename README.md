@@ -9,21 +9,21 @@ My name is Raiden. I am an information systems student at the [FH Dortmund][1] a
 
 ## Main languages:
 
-- Python
-- PowerShell
-- Java
-- JS / HTML / CSS / Jekyll / liquid
+
+| Python                                | PowerShell                                | Java                                | JS                                                    | HTML                                | CSS                                | Jekyll                                |
+| ------------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------------------- | ----------------------------------- | ---------------------------------- | ------------------------------------- |
+| <img width=30 src=./img/python.svg /> | <img width=30 src=./img/PowerShell.svg /> | <img width=30 src=./img/java.svg /> | <img margin=10px width=30 src=./img/javascript.svg /> | <img width=30 src=./img/html.svg /> | <img width=30 src=./img/css.svg /> | <img width=30 src=./img/jekyll.svg /> |
+
 
 ## Familiar systems and frameworks
 
-| Repository hosting systems | Operating systems | Hypervisor systems | Misc       |
-| -------------------------- | ----------------- | ------------------ | ---------- |
-| GitHub                     | Windows 10        | Proxmox            | DX-Union   |
-| GitLab                     | Ubuntu            | VMWare Workstation | Office     |
-|                            |                   | VMWare ESXi        |            |
-|                            |                   | Hyper-V Desktop    | VS Code    |
-|                            |                   | Docker             | SharePoint |
-|                            |                   |                    |            |
+| Repository hosting systems | Operating systems | Hypervisor systems | Misc     |
+| -------------------------- | ----------------- | ------------------ | -------- |
+| GitHub                     | Windows 10        | VMWare Workstation | DX-Union |
+| GitLab                     | Ubuntu            | VMWare ESXi        | Office   |
+|                            |                   | Hyper-V Desktop    |          |
+|                            |                   | Docker             | VS Code  |
+|                            |                   | Proxmox            |          |
 
 # A bit more about me
 
