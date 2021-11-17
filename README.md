@@ -12,7 +12,7 @@ My name is Raiden. I am an information systems student at the [FH Dortmund][1] a
 
 | Python                                | PowerShell                                | Java                                | JS                                                    | HTML                                | CSS                                | Jekyll                                |
 | ------------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------------------------------------------- | ----------------------------------- | ---------------------------------- | ------------------------------------- |
-| <img width=30 src=./img/python.svg /> | <img width=30 src=./img/PowerShell.svg /> | <img width=30 src=./img/java.svg /> | <img margin=10px width=30 src=./img/javascript.svg /> | <img width=30 src=./img/html.svg /> | <img width=30 src=./img/css.svg /> | <img width=30 src=./img/jekyll.svg /> |
+| <img width=30 src=./img/python.svg /> | <img width=30 src=./img/powershell.svg /> | <img width=30 src=./img/java.svg /> | <img margin=10px width=30 src=./img/javascript.svg /> | <img width=30 src=./img/html.svg /> | <img width=30 src=./img/css.svg /> | <img width=30 src=./img/jekyll.svg /> |
 
 
 ## Familiar systems and frameworks
