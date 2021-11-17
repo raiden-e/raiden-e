@@ -14,13 +14,13 @@ My name is Raiden. I am an information systems student at the [FH Dortmund][1] a
 | --------- | ---------- | --------- | --------- | --------- | --------- | --------- |
 | ![img][3] | ![img][4]  | ![img][5] | ![img][6] | ![img][7] | ![img][8] | ![img][9] |
 
-[3]: /img/python.svg
-[4]: /img/powershell.svg
-[5]: /img/java.svg
-[6]: /img/javascript.svg
-[7]: /img/html.svg
-[8]: /img/css.svg
-[9]: /img/jekyll.svg
+[3]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/python.svg
+[4]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/powershell.svg
+[5]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/java.svg
+[6]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/javascript.svg
+[7]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/html.svg
+[8]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/css.svg
+[9]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/jekyll.svg
 
 ## Familiar systems and frameworks
 
