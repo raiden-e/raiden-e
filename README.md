@@ -2,10 +2,6 @@
 
 <!--**raiden-e/raiden-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<style>
-    img[alt=img] { height: 35px; margin: 5px }
-</style>
-
 My name is Raiden. I am an information systems student at the [FH Dortmund][1] and work paralelly as a working student at [Materna IPS][2].
 
 [1]: https://www.fh-dortmund.de
@@ -18,6 +14,13 @@ My name is Raiden. I am an information systems student at the [FH Dortmund][1] a
 | --------- | ---------- | --------- | --------- | --------- | --------- | --------- |
 | ![img][3] | ![img][4]  | ![img][5] | ![img][6] | ![img][7] | ![img][8] | ![img][9] |
 
+[3]: /img/python.svg
+[4]: /img/powershell.svg
+[5]: /img/java.svg
+[6]: /img/javascript.svg
+[7]: /img/html.svg
+[8]: /img/css.svg
+[9]: /img/jekyll.svg
 
 ## Familiar systems and frameworks
 
@@ -38,13 +41,3 @@ I got the opportunity to work at Materna IPS, an aviation solutions company. Qui
 I had to accept. As of today, I am glad that I did. I have already learned very much and am excited to continue.
 
 This is everything I can come up with, at the moment. Cheers!
-
-<!-- links -->
-
-[3]: /img/python.svg
-[4]: /img/powershell.svg
-[5]: /img/java.svg
-[6]: /img/javascript.svg
-[7]: /img/html.svg
-[8]: /img/css.svg
-[9]: /img/jekyll.svg
