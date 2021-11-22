@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<!--**raiden-e/raiden-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 My name is Raiden. I am an information systems student at the [FH Dortmund][1] and work paralelly as a working student at [Materna IPS][2].
 
 [1]: https://www.fh-dortmund.de
