@@ -7,28 +7,29 @@ My name is Raiden. I am an information systems student at the [FH Dortmund][1] a
 
 ## Main languages:
 
-|  Python   | PowerShell |   Java    |    JS     |   HTML    |    CSS    |  Jekyll   |
-| :-------: | :--------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-| ![img][3] | ![img][4]  | ![img][5] | ![img][6] | ![img][7] | ![img][8] | ![img][9] |
+|  Python   | PowerShell |   Java    |    C#     |    JS     |   HTML    |    CSS    |  Jekyll   |
+| :-------: | :--------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+| ![img][3] | ![img][4]  | ![img][5] | ![img][6] | ![img][7] | ![img][8] | ![img][9] | ![img][10] |
 
 [3]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/python.svg
 [4]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/powershell.svg
 [5]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/java.svg
-[6]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/javascript.svg
-[7]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/html.svg
-[8]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/css.svg
-[9]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/jekyll.svg
+[6]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/csharp.svg
+[7]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/javascript.svg
+[8]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/html.svg
+[9]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/css.svg
+[10]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/jekyll.svg
 
 
 ## Familiar systems and frameworks
 
-| Repository hosting systems | Operating systems | Hypervisor systems | Misc     |
-| -------------------------- | ----------------- | ------------------ | -------- |
-| GitHub                     | Windows 10        | VMWare Workstation | DX-Union |
-| GitLab                     | Ubuntu            | VMWare ESXi        | Office   |
-|                            |                   | Hyper-V Desktop    |          |
-|                            |                   | Docker             | VS Code  |
-|                            |                   | Proxmox            |          |
+| Repository hosting systems | Operating systems        | Hypervisor systems | Misc     |
+| -------------------------- | ------------------------ | ------------------ | -------- |
+| GitHub                     | Windows 10               | VMWare Workstation | DX-Union |
+| GitLab                     | Windows Server 2016/2019 | VMWare ESXi        | Office   |
+|                            | Ubuntu                   | Hyper-V Desktop    |          |
+|                            |                          | Docker             | VS Code  |
+|                            |                          | Proxmox            |          |
 
 # A bit more about me
 
