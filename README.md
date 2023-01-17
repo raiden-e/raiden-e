@@ -7,9 +7,9 @@ My name is Raiden. I am studying business information technology at the [FH Dort
 
 ## Main languages:
 
-|  Python   | PowerShell |   Java    |    C#     |    JS     |   HTML    |    CSS    |  Jekyll   |
-| :-------: | :--------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-| ![img][3] | ![img][4]  | ![img][5] | ![img][6] | ![img][7] | ![img][8] | ![img][9] | ![img][10] |
+|  Python   | PowerShell |   Java    |    C#     | JavaScript |   HTML    |    CSS    |   Jekyll   |
+| :-------: | :--------: | :-------: | :-------: | :--------: | :-------: | :-------: | :--------: |
+| ![img][3] | ![img][4]  | ![img][5] | ![img][6] | ![img][7]  | ![img][8] | ![img][9] | ![img][10] |
 
 [3]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/python.svg
 [4]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/powershell.svg
@@ -19,7 +19,6 @@ My name is Raiden. I am studying business information technology at the [FH Dort
 [8]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/html.svg
 [9]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/css.svg
 [10]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/jekyll.svg
-
 
 ## Familiar systems and frameworks
 
