@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Raiden. I am an information systems student at the [FH Dortmund][1] and work paralelly as a working student at [Materna IPS][2].
+My name is Raiden. I am studying business information technology at the [FH Dortmund][1] and work parallelly as a working student at [Materna IPS][2].
 
 [1]: https://www.fh-dortmund.de
 [2]: https://www.materna-ips.com
