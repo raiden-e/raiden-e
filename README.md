@@ -18,7 +18,7 @@ My name is Raiden. I am studying business information technology at the [FH Dort
 [7]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/javascript.svg
 [8]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/html.svg
 [9]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/css.svg
-[10]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/liquid.png
+[10]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/Liquid.png
 [11]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/swift.svg
 
 ## Familiar systems and frameworks
