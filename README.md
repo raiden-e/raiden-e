@@ -7,6 +7,8 @@ My name is Raiden. I am studying business information technology at the [FH Dort
 
 ## Main languages:
 
+<div style="img { width: 60px; }">
+
 |  Python   | PowerShell |   Java    |    C#     | JavaScript |   HTML    |    CSS    |   Liquid   |
 | :-------: | :--------: | :-------: | :-------: | :--------: | :-------: | :-------: | :--------: |
 | ![img][3] | ![img][4]  | ![img][5] | ![img][6] | ![img][7]  | ![img][8] | ![img][9] | ![img][10] |
@@ -20,6 +22,8 @@ My name is Raiden. I am studying business information technology at the [FH Dort
 [9]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/css.svg
 [10]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/Liquid.png
 [11]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/swift.svg
+
+</div>
 
 ## Familiar systems and frameworks
 
