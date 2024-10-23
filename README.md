@@ -1,9 +1,10 @@
 # Hi there 👋
 
-My name is Raiden. I am studying business information technology at the [FH Dortmund][1] and work parallelly as a working student at [Sita IPS][2].
+My name is Raiden. I am studying business information technology at the [FH Dortmund][1] and work parallelly as a working student at [Sita IPS][2]. Check out my [LinkedIn][3] for more!
 
 [1]: https://www.fh-dortmund.de
 [2]: https://materna-ips.com
+[3]: https://www.linkedin.com/in/raiden-erdmann
 
 ## Main languages:
 
@@ -35,12 +36,3 @@ My name is Raiden. I am studying business information technology at the [FH Dort
 |                            | MacOS                    | Docker             | VS Code  |
 |                            |                          | Proxmox            |          |
 
-# A bit more about me
-
-During my studies in Mechanical engineering, I learned C-Sharp, while I also learned PowerShell at Vulkan's.
-It was this time that I realized I liked programming way more than engineering, so I switched.
-My experiences as a working student were so positive that I chose to take up a study-accompanying job.
-I got the opportunity to work at Materna IPS, an aviation solutions company. Quite thrilling, as I like traveling and getting to know the background scenes and systems.
-I had to accept. As of today, I am glad that I did. I have already learned very much and am excited to continue.
-
-This is everything I can come up with, at the moment. Cheers!
