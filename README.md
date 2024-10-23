@@ -1,9 +1,9 @@
 # Hi there 👋
 
-My name is Raiden. I am studying business information technology at the [FH Dortmund][1] and work parallelly as a working student at [IA International][2].
+My name is Raiden. I am studying business information technology at the [FH Dortmund][1] and work parallelly as a working student at [Sita IPS][2].
 
 [1]: https://www.fh-dortmund.de
-[2]: https://ia-international.de/
+[2]: https://materna-ips.com
 
 ## Main languages:
 
