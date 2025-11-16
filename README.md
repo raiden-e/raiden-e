@@ -1,38 +1,67 @@
-# Hi there 👋
+# Raiden Erdmann
 
-My name is Raiden. I am studying business information technology at the [FH Dortmund][1] and work parallelly as a working student at [Sita IPS][2]. Check out my [LinkedIn][3] for more!
+**IT Consultant | AI Transformation & Business Impact**
 
-[1]: https://www.fh-dortmund.de
-[2]: https://materna-ips.com
-[3]: https://www.linkedin.com/in/raiden-erdmann
+Business Informatics Student at FH Dortmund & IT Consultant at SITA IPS
+Specializing in GenAI, Python automation, and cloud infrastructure
 
-## Main languages:
+NRW, Germany
 
-<div style="img { width: 60px; }">
+[LinkedIn](https://linkedin.com/in/raiden-erdmann) • [Portfolio](https://raiden-e.github.io)
 
-|  Python   | PowerShell |   Java    |    C#     | JavaScript |   HTML    |    CSS    |   Liquid   |
-| :-------: | :--------: | :-------: | :-------: | :--------: | :-------: | :-------: | :--------: |
-| ![img][3] | ![img][4]  | ![img][5] | ![img][6] | ![img][7]  | ![img][8] | ![img][9] | ![img][10] |
+---
 
-[3]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/python.svg
-[4]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/powershell.svg
-[5]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/java.svg
-[6]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/csharp.svg
-[7]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/javascript.svg
-[8]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/html.svg
-[9]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/css.svg
-[10]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/Liquid_s.png
-[11]: https://raw.githubusercontent.com/raiden-e/raiden-e/main/img/swift.svg
+## About Me
 
-</div>
+I turn AI potential into business impact. Currently working on Microsoft 365 Copilot integration and GenAI use case development while completing my bachelor's thesis on AI-powered video generation.
 
-## Familiar systems and frameworks
+**What I do:**
+- Coordinate projects in the aviation sector
+- Develop KI transformation strategies and use cases
+- Build automation tools to solve real-world problems
+- Maintain self-hosted infrastructure (TrueNAS, Docker)
 
-| Repository hosting systems | Operating systems        | Hypervisor systems | Misc     |
-| -------------------------- | ------------------------ | ------------------ | -------- |
-| GitHub                     | Windows 10               | VMWare Workstation | DX-Union |
-| GitLab                     | Windows Server 2016/2019 | VMWare ESXi        | Office   |
-|                            | Ubuntu                   | Hyper-V Desktop    |          |
-|                            | MacOS                    | Docker             | VS Code  |
-|                            |                          | Proxmox            |          |
+**Open to:** Technical Sales, Presales, Solution Consulting roles in B2B SaaS, Cloud, and AI
 
+---
+
+## Tech Stack
+
+**Languages:**  
+Python • PowerShell • JavaScript • Markdown
+
+**AI & Cloud:**
+GenAI (LLMs, Prompting) • VSCode Copilot • Azure DevOps • Docker
+
+**Systems & Tools:**  
+Git (GitHub, Forgejo) • TrueNAS • Proxmox • VMware • Linux • Windows Server
+
+---
+
+## Featured Projects
+
+### 🎵 [autofy](https://github.com/raiden-e/autofy)
+Spotify workflow automation using Python and Spotify API. Automates playlist management and music discovery based on listening patterns.
+
+**Tech:** Python, Spotify API, REST APIs  
+**Why:** Demonstrates API integration and automation skills for real-world use cases
+
+### 🤖 [discord-bot](https://github.com/raiden-e/discord)
+Custom Discord bot for community management and automation.
+
+**Tech:** Python, Discord API  
+**Why:** Shows backend development and API handling
+
+---
+
+## Connect With Me
+
+I'm always open to discussing AI transformation, technical sales opportunities, or interesting tech challenges.
+
+📧 raiden.erdmann@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/raiden-erdmann)  
+🌐 [Portfolio](https://raiden-e.github.io)
+
+---
+
+*Last updated: November 2025*
