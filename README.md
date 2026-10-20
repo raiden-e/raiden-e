@@ -43,6 +43,8 @@ Agile (Scrum) • Jira • Confluence • SharePoint • Azure DevOps
 
 ## Featured Projects
 
+> Most of my work lives on my self-hosted Forgejo instance, not on GitHub. What you see here is only a small public selection.
+
 ### 🎵 [autofy](https://github.com/raiden-e/autofy)
 Spotify workflow automation using Python and the Spotify API. Automates playlist management and music discovery based on listening patterns.
 
