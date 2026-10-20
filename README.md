@@ -1,67 +1,64 @@
 # Raiden Erdmann
 
-**IT Consultant | AI Transformation & Business Impact**
+**IT Consulting & Infrastructure**
 
-Business Informatics Student at FH Dortmund & IT Consultant at SITA IPS
-Specializing in GenAI, Python automation, and cloud infrastructure
+B.Sc. Business Informatics (FH Dortmund, 2026) · Infrastructure, automation and GenAI
+Bochum, Germany · Ruhr area
 
-NRW, Germany
-
-[LinkedIn](https://linkedin.com/in/raiden-erdmann) • [Portfolio](https://raiden-e.github.io)
+[LinkedIn](https://www.linkedin.com/in/raiden-erdmann/) • [Portfolio](https://raiden-e.github.io)
 
 ---
 
 ## About Me
 
-I turn AI potential into business impact. Currently working on Microsoft 365 Copilot integration and GenAI use case development while completing my bachelor's thesis on AI-powered video generation.
+I completed my B.Sc. in Business Informatics at FH Dortmund in 2026. My bachelor's thesis on AI-generated video from PDFs covers the generative AI stack from diffusion architectures to the EU AI Act. After three years in deployment automation at Materna IPS and 21 months in the Program Office, I'm looking for my next role in the **Ruhr area**: **IT Consulting, Solution Consulting, or Pre-Sales**.
 
-**What I do:**
-- Coordinate projects in the aviation sector
-- Develop KI transformation strategies and use cases
-- Build automation tools to solve real-world problems
-- Maintain self-hosted infrastructure (TrueNAS, Docker)
+I combine a solid tech background (infrastructure, automation, Python, PowerShell) with business thinking and a genuine interest in matching people with the right software.
 
-**Open to:** Technical Sales, Presales, Solution Consulting roles in B2B SaaS, Cloud, and AI
+**Background:**
+- Deployment automation (PXE boot, PowerShell, DX-Union) serving 600+ machines at three airports (Materna IPS)
+- Program Office for international software rollouts in aviation; AI-assisted workflows in SharePoint and Azure DevOps
+- Since May 2026: IT and digitalisation at a family-run property management company
+- Homelab with TrueNAS, Docker, Traefik and Crowdsec
+
+**Open to:** IT Consulting, Solution Consulting and Pre-Sales roles in the Ruhr area
 
 ---
 
 ## Tech Stack
 
-**Languages:**  
-Python • PowerShell • JavaScript • Markdown
+**Infrastructure & Virtualization:**
+Windows Server • DNS • VMware • Proxmox • Docker • TrueNAS • Traefik • Crowdsec
 
-**AI & Cloud:**
-GenAI (LLMs, Prompting) • VSCode Copilot • Azure DevOps • Docker
+**Automation & Development:**
+PowerShell • Python • PXE boot • HTML/CSS/JS • Git
 
-**Systems & Tools:**  
-Git (GitHub, Forgejo) • TrueNAS • Proxmox • VMware • Linux • Windows Server
+**AI & GenAI:**
+LLMs • Prompting • Use case development • GitHub Copilot • EU AI Act • C2PA
+
+**Project Work:**
+Agile (Scrum) • Jira • Confluence • SharePoint • Azure DevOps
 
 ---
 
 ## Featured Projects
 
 ### 🎵 [autofy](https://github.com/raiden-e/autofy)
-Spotify workflow automation using Python and Spotify API. Automates playlist management and music discovery based on listening patterns.
+Spotify workflow automation using Python and the Spotify API. Automates playlist management and music discovery based on listening patterns.
 
-**Tech:** Python, Spotify API, REST APIs  
-**Why:** Demonstrates API integration and automation skills for real-world use cases
+**Tech:** Python, Spotify API, REST APIs
 
 ### 🤖 [discord-bot](https://github.com/raiden-e/discord)
 Custom Discord bot for community management and automation.
 
-**Tech:** Python, Discord API  
-**Why:** Shows backend development and API handling
+**Tech:** Python, Discord API
 
 ---
 
 ## Connect With Me
 
-I'm always open to discussing AI transformation, technical sales opportunities, or interesting tech challenges.
+Happy to talk about technology, consulting, or hiking routes in the Sauerland.
 
-📧 raiden.erdmann@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/raiden-erdmann)  
+📧 raiden.erdmann@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/raiden-erdmann/)
 🌐 [Portfolio](https://raiden-e.github.io)
-
----
-
-*Last updated: November 2025*
